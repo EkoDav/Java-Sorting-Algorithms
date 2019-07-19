@@ -1,0 +1,7 @@
+SORTING RESULTS
+---------------
+                         Run 1          Run 3          Run 3        Average
+Selection Sort          2096ms         2028ms         1290ms       1804.0ms
+Shell Sort                19ms           17ms           13ms         16.0ms
+Quick Sort                18ms            7ms            7ms         10.0ms
+

@@ -1,0 +1,6 @@
+SORTING RESULTS
+---------------
+                    ,          Run 1,          Run 3,          Run 3,        Average
+      Selection Sort,           2019,           1974,           1239,         1744.0
+          Shell Sort,           2019,           1974,           1239,         1744.0
+          Quick Sort,           2019,           1974,           1239,         1744.0
